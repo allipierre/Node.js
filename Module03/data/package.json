@@ -1,0 +1,10 @@
+{
+  "name"        : "Hello-World",
+  "main"        : "./repositories.js",
+  "author"      : "Alli Pierre Yotti",
+  "version"     : "0.2",
+  "description" : "Kapselt die Datenzugriffe",
+  "engines"     : {
+      "node" : ">=0.6"
+  }
+}
